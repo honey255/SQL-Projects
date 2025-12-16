@@ -45,13 +45,13 @@ README.md
 ---
 
 ### 📷 Project Preview
-![Project Preview]()
+![Project Preview](https://github.com/honey255/SQL-Projects/blob/main/Pizza%20Sales%20Project/Pizza%20Resto.png)
 
 ---
 
 ### 🚀 Getting Started
 
-Clone or download the repository → [Click Here]()  
+Clone or download the repository → [Click Here](https://github.com/honey255/SQL-Projects/tree/main/Pizza%20Sales%20Project)  
 Import the Excel datasets in /Dataset into your SQL environment (MySQL / PostgreSQL).
 Open and run each SQL file in /SQL_Files to perform the respective analysis.
 Open Pizza_Sales_Report.pdf for outputs, visuals, and detailed explanations.
